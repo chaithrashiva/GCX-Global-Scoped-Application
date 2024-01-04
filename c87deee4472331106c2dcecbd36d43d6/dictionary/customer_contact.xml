@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="dcdecedc474531106c2dcecbd36d435f" extends="sys_user" label="Contact" max_length="40" name="customer_contact" text_index="true" type="collection">
+        <element label="gcx conditions" max_length="40" name="u_gcx_conditions" type="boolean"/>
+    </element>
+</database>
